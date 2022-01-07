@@ -1,0 +1,9 @@
+initdata:
+  protocol: https
+  host: aaaa
+  db:
+    host: jdbc:mysql://xxxxx:3306
+    potr: 3306
+    username: test
+    password: 123456
+    driver: com.mysql.jdbc.Driver
